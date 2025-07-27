@@ -1,5 +1,5 @@
 const title = document.querySelector(".title");
-const text = `I Have Something For U Gembul`.split("");
+const text = `I Have Something For U Sayang`.split("");
 
 // Create container for better responsive layout
 title.style.display = "flex";
